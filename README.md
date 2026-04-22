@@ -7,7 +7,7 @@ If 0 is input the code terminates.
 ## How to run
 1. Open program in IDE
 2. Enter starting balance
-3. Enter withdrawal amount
+3. Enter deposit amount
 4. Continue to enter another withdrawal until 0 or input 0 to finish.
 
 ## Example output
