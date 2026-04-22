@@ -24,3 +24,4 @@ Updated README with lab instructions.
 
 Edited by Christophe Rojas
 Added note and signed edit by Christopher Rojas
+This project was reviewed and edited by my partner Christopher Rojas on GitHub.
